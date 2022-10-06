@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulsayyed101
+- 👋 Hi, I’m Abdul Rahim Sayyed
 - 👀 I’m interested in learning Machine learning algorithms and understanding how the data analysis work.
 - 🌱 I’m currently studying my masters degree in Systems engineering and engineering management
 - 💞️ I’m looking to collaborate on projects related to the field of machine learning.
